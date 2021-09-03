@@ -1,1 +1,2 @@
 This is file2.txt
+Ova linija je dodata na lokalnom repozitorijumu 
